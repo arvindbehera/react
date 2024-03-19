@@ -1,0 +1,29 @@
+import React, { useEffect, useMemo, useReducer, useState } from "react";
+import Weather from "./weather-app/Weather";
+import "./App.css";
+
+function App() {
+  const [dark, setDark] = useState(false);
+  const [checked, setChecked] = useReducer((checked) => !checked, false);
+
+  const handleDark = (e) => {
+    setChecked(e.target.checked);
+    setDark(!dark);
+  };
+  return (
+    <div className={`App ${dark && "dark-mode"}`}>
+      <div className="darkmode-container">
+        <label for="dark">{checked ? "Light Mode" : "Dark Mode"}</label>
+        <input
+          type="checkbox"
+          onChange={handleDark}
+          id="dark"
+          className="darkmode-checkbox"
+        />
+      </div>
+      <Weather />
+    </div>
+  );
+}
+
+export default App;

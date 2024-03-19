@@ -1,0 +1,45 @@
+/* *{
+    border: 1px solid red;
+} */
+.weather-container{    
+}
+.title{
+    padding: 1rem;
+    text-align: center;
+}
+.content-container input{
+    width: 30%;
+}
+.content-container {
+    text-align: center;
+}
+
+ .content-container input, .suggetion-items {
+    margin-right: 0.5rem;
+    padding: 0.5rem;
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin: 1rem;
+}
+
+
+.content-container button{
+    background-color: #fdb81e;
+    color: #212121;
+    border-radius: 0.3rem;
+    padding: 0.6rem 2rem;
+    font-weight: 600;
+    font-size: 1.5rem;
+}
+.temp-item{
+    background-color: #112e51;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
+
+.weather-container .error-item{
+    color: #e31c3d;
+    text-align: center;
+    font-size: 1.5rem;
+}

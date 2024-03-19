@@ -1,0 +1,103 @@
+
+{
+    "employees": [
+    {
+      "id": 1,
+      "name": "Arabinda Behera",
+      "Gender": "Male",
+      "Employee-Code": "ES2317",
+      "Designation": "Manager"
+    },
+    {
+      "id": 2,
+      "name": "Krishna Chandra",
+      "Gender": "Male",
+      "Employee-Code": "ES2428",
+      "Designation": "Software Engineer"
+    },
+    {
+      "id": 3,
+      "name": "Sulochana Behera",
+      "Gender": "Female",
+      "Employee-Code": "ES2516",
+      "Designation": "Technical Lead"
+    },
+    {
+      "id": 4,
+      "name": "Dibyalok Kumar",
+      "Gender": "Male",
+      "Employee-Code": "ES2528",
+      "Designation": "Senior Software Engineer"
+    },
+    {
+      "id": 5,
+      "name": "Amit Agarwal",
+      "Gender": "Male",
+      "Employee-Code": "ES2217",
+      "Designation": "Trainee Engineer"
+    },
+    {
+      "id": 6,
+      "name": "Pravat Chauhan",
+      "Gender": "Male",
+      "Employee-Code": "ES2719",
+      "Designation": "Finance Executive"
+    },
+    {
+      "id": 7,
+      "name": "Lipika Sahoo",
+      "Gender": "Female",
+      "Employee-Code": "ES2514",
+      "Designation": "Senior Software Engineer"
+    },
+    {
+      "id": 8,
+      "name": "Smita Sinha",
+      "Gender": "Female",
+      "Employee-Code": "ES2350",
+      "Designation": "Senior Software Engineer"
+    },
+    {
+      "id": 9,
+      "name": "Divya Kumari",
+      "Gender": "Female",
+      "Employee-Code": "ES2625",
+      "Designation": "HR Executive"
+    },
+    {
+      "id": 10,
+      "name": "Varun Kumar",
+      "Gender": "Male",
+      "Employee-Code": "ES2289",
+      "Designation": "Technical Architect"
+    },
+    {
+      "id": 11,
+      "name": "Nidhi Chauhan",
+      "Gender": "Female",
+      "Employee-Code": "ES2327",
+      "Designation": "Technical Lead"
+    },
+    {
+      "id": 12,
+      "name": "Ranjan Sukla",
+      "Gender": "Male",
+      "Employee-Code": "ES2337",
+      "Designation": "Manager"
+    },
+    {
+      "id": 13,
+      "name": "Alia Kumari",
+      "Designation": "HR Executive",
+      "Employee-Code": "ES2326",
+      "Gender": "Female"
+    },
+    {
+      "id": 14,
+      "name": "Kiran Mohanty",
+      "Designation": "Finance Executive",
+      "Employee-Code": "ES2314",
+      "Gender": "Female"
+    }
+  ]
+}

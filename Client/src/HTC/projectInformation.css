@@ -1,0 +1,16 @@
+.form-group {
+    margin: 15px;
+  }
+  
+  .form-control {
+    font-size: "15px";
+    display: inline;
+  }
+  
+  /* #info-icon {
+    border: "2px solid black";
+    border-radius: "20%";
+    padding: "1px 8px";
+    color: red;
+  }
+   */

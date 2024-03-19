@@ -1,0 +1,38 @@
+{
+  "cities": [
+    {
+      "name": "San Francisco",
+      "state": "Californiaaaaa",
+      "country": "USA",
+      "nameId": 1,
+      "id": 1
+    },
+    {
+      "name": "Londonn",
+      "state": "London",
+      "country": "Britain",
+      "nameId": 2,
+      "id": 2
+    },
+    {
+      "name": "Sydney",
+      "state": "dewfgedfg",
+      "country": "Austrelia",
+      "nameId": 3,
+      "id": 3
+    },
+    {
+      "name": "cfdcf",
+      "state": "ssdf",
+      "country": "scsdf",
+      "id": 4
+    },
+    {
+      "name": "cfdcf",
+      "state": "ssdf",
+      "country": "adegg",
+      "nameId": 5,
+      "id": 5
+    }
+  ]
+}
